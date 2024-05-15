@@ -1,12 +1,11 @@
 import InputArea.TextInput;
-import SideBar.SideBar;
 import SideBar.CreateFile;
 import SideBar.OpenFile;
 import SideBar.SaveButton;
-
-import javax.swing.*;
+import SideBar.SideBar;
 import java.awt.*;
 import java.awt.event.WindowEvent;
+import javax.swing.*;
 
 public class Main {
 

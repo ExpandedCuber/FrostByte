@@ -1,8 +1,8 @@
 package InputArea;
 
+import java.awt.*;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
-import java.awt.*;
 
 public class TextInput extends JTextArea {
 
